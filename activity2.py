@@ -1,3 +1,2 @@
-x = "walang halaga sakin"
-
-print("ang value ni ex ay " , x)
+name = input("What is your name?")
+print ("Hello" ,name, "Welcome to the matrix")
